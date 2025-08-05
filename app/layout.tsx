@@ -6,9 +6,8 @@ import "./globals.css"
 const lexendExa = Lexend_Exa({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Portfolio",
-  description: "Minimalist portfolio",
-    generator: 'v0.dev'
+  title: "Portfolio | Pawan",
+  description: "Pawan Mishra",
 }
 
 export default function RootLayout({

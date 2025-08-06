@@ -73,7 +73,7 @@ export function Navigation() {
                   asChild
                   className="text-black/90 hover:text-black hover:bg-black/10"
                 >
-                  <Link href="https://linkedin.com/pmbpgc7" target="_blank" rel="noopener noreferrer">
+                  <Link href="https://www.linkedin.com/in/pmbpgc7/" target="_blank" rel="noopener noreferrer">
                     <Linkedin className="w-5 h-5" />
                     <span className="sr-only">LinkedIn</span>
                   </Link>

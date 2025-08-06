@@ -14,7 +14,7 @@ export default async function BlogPage() {
           <div className="text-center mb-16">
             <h1 className="text-4xl md:text-5xl font-light text-zinc-800 mb-4">Blog</h1>
             <p className="text-lg text-zinc-600 max-w-2xl mx-auto my-10">
-              Thoughts on Philosophy, Cricket, and lessons learned from real-world Observations.
+              Thoughts on Tech, Philosophy, Cricket, and lessons learned from real-world Observations.
             </p>
           </div>
 

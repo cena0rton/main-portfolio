@@ -21,7 +21,7 @@ const projects = [
     description: "Built Skimly as a real-time feedback operations tool to help product teams convert scattered feedback into clear, actionable insights. Designed with MongoDB and Next.js, it features a responsive dashboard that visualizes feedback patterns and priorities the moment users log in. Still evolving Skimly is my ongoing effort to bridge the gap between user voice and product direction.",
     image: "/images/skimly.png",
     technologies: ["Next.js", "TypeScript", "MongoDB"],
-    liveLink: "https://skimly.vercel.app",
+    liveLink: "https://skimlyy.vercel.app",
     githubLink: "#",
     category: "PM Tool (In Progress)"
   },

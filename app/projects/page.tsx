@@ -28,7 +28,7 @@ const projects = [
   {
     id: 3,
     title: "Nior- Minimalist Fashion E-Commerce",
-    description: "Nior is an ongoing fashion storefront project crafted to offer a sleek, modern shopping experience. Built with Next.js and integrated with Firebase for authentication and backend support, it focuses on performance, clean UI, and mobile responsiveness. Designed to scale with real-time inventory and customer engagement features in mind.",
+    description: "Nior is an ongoing fashion storefront project crafted to offer a sleek, modern shopping experience. Built with Next.js and integrated with Supabase for authentication and backend support, it focuses on performance, clean UI, and mobile responsiveness. Designed to scale with real-time inventory and customer engagement features in mind.",
     image: "/images/nior.png",
     technologies: ["SupaBase","End-to-End Product Design", "Full-Cycle Execution"],
     liveLink: "https://pawanhere.vercel.app",

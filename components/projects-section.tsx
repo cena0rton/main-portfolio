@@ -2,7 +2,7 @@ export function ProjectsSection() {
   return (
     <section className="py-24 px-6 bg-stone-100/50">
       <div className="max-w-4xl mx-auto">
-        <h2 className="text-3xl md:text-4xl font-light text-zinc-800 mb-16 text-center">Projects</h2>
+        <h2 className="text-3xl md:text-4xl font-light text-zinc-800 mb-16 text-center">Research Experience</h2>
 
         <div className="space-y-8">
           {/* VTech Automations project */}
@@ -42,6 +42,7 @@ export function ProjectsSection() {
                   Indian Navy & Mormugao Port Authority, Government of India
                 </h3>
                 <p className="text-zinc-600 font-light">Undergraduate Research Thesis</p>
+                <p className="text-sm text-zinc-500 mt-1">Goa, India · Hybrid</p>
               </div>
               <div className="text-sm text-zinc-500 font-light whitespace-nowrap">Jul 2024 – Dec 2024</div>
             </div>

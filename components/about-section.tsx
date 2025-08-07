@@ -14,8 +14,7 @@ export function AboutSection() {
                 code.
               </p>
               <p>
-                With experience in MERN stack and Java Spring Boot, I craft scalable, user centric applications. I
-                believe in minimalism, thoughtful design, and code that feels as intuitive as it looks.
+              I have experience with the MERN stack and Java Spring Boot, but at heart, I’m a product architect. I use code to shape ideas into real, usable things driven by clarity, minimalism, and a belief that good design should feel as natural as it looks.
               </p>
             </div>
           </div>

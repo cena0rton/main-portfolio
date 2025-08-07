@@ -44,11 +44,15 @@ export function Navigation() {
             <div className="hidden md:flex items-center gap-8">
               <div className="flex items-center gap-8">
                 <button
+                
                   onClick={() => scrollToSection("about")}
                   className="text-black/90 hover:text-black transition-colors drop-shadow-sm cursor-pointer"
                 >
                   About
                 </button>
+                <Link href="/projects" className="text-black/90 hover:text-black transition-colors drop-shadow-sm">
+                  Projects
+                </Link>
                 <Link href="/blog" className="text-black/90 hover:text-black transition-colors drop-shadow-sm">
                   Blogs
                 </Link>
@@ -126,6 +130,13 @@ export function Navigation() {
                   About
                 </button>
 
+                <Link
+                  href="/projects"
+                  className="block text-2xl font-light text-black hover:text-black/70 transition-colors py-2"
+                  onClick={closeMenu}
+                >
+                  Projects
+                </Link>
                 <Link
                   href="/blog"
                   className="block text-2xl font-light text-black hover:text-black/70 transition-colors py-2"

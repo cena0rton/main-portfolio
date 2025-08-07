@@ -39,7 +39,7 @@ const projects = [
     id: 4,
     title: "Portfolio Website with Firebase Blog",
     description: "Built a minimalist portfolio website using Next.js 15 with a dynamic blog system powered by Firebase. Features include admin panel for blog management, responsive design, and optimized performance. Implemented secure authentication and real-time content management.",
-    image: "/images/pawan.png",
+    image: "/images/Pawan.png",
     technologies: ["Next.js", "Firebase", "TypeScript", "Tailwind CSS"],
     liveLink: "https://pawanhere.vercel.app",
     githubLink: "#",
